@@ -1,0 +1,42 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+header {
+  height: 400px;
+  background-image: url(img/mv.jpg);
+  background-size: cover;
+  background-position: bottom;
+}
+
+.headline {
+  padding: 20px 0 0 20px;
+  color: gray;
+}
+
+main {
+  width: 840px;
+  margin: 0 auto;
+  padding: 50px 0;
+}
+
+.service {
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  border-bottom: 1px solid gray;
+}
+
+.service-text {
+  color: gray;
+}
+
+.service-link {
+  color: gray;
+}
+
+.service2 {
+  padding-bottom: 30px;
+  border-bottom: 1px solid gray;
+}
